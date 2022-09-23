@@ -1,0 +1,220 @@
+09/18/2022 09:04:40 AM INFO MainThread **************** Test001_Login *****************
+09/18/2022 09:04:40 AM INFO MainThread **************** Verifying Homepage Title *****************
+09/18/2022 09:04:45 AM INFO MainThread **************** Homepage Title test is Passed *****************
+09/18/2022 09:04:50 AM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 09:05:44 AM INFO MainThread **************** Login test Passed *****************
+09/18/2022 09:12:54 AM INFO MainThread **************** Test001_Login *****************
+09/18/2022 09:12:54 AM INFO MainThread **************** Verifying Homepage Title *****************
+09/18/2022 09:12:54 AM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 09:13:18 AM INFO MainThread **************** Homepage Title test is Passed *****************
+09/18/2022 09:13:21 AM INFO MainThread **************** Login test Passed *****************
+09/18/2022 09:28:53 AM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 09:28:53 AM INFO MainThread **************** Test001_Login *****************
+09/18/2022 09:28:53 AM INFO MainThread **************** Verifying Homepage Title *****************
+09/18/2022 09:29:14 AM INFO MainThread **************** Login test Passed *****************
+09/18/2022 09:29:14 AM INFO MainThread **************** Homepage Title test is Passed *****************
+09/18/2022 09:35:32 AM INFO MainThread **************** Test001_Login *****************
+09/18/2022 09:35:32 AM INFO MainThread **************** Verifying Homepage Title *****************
+09/18/2022 09:35:32 AM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 09:35:38 AM INFO MainThread **************** Homepage Title test is Passed *****************
+09/18/2022 09:36:11 AM INFO MainThread **************** Login test Passed *****************
+09/18/2022 12:46:21 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 12:46:21 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 12:46:31 PM INFO MainThread *** Passed ***
+09/18/2022 01:01:16 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:01:16 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:01:26 PM INFO MainThread *** Passed ***
+09/18/2022 01:03:41 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:03:41 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:03:52 PM INFO MainThread *** Passed ***
+09/18/2022 01:07:26 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:07:26 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:07:53 PM INFO MainThread *** Passed ***
+09/18/2022 01:12:25 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:12:25 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:12:55 PM INFO MainThread *** Passed ***
+09/18/2022 01:13:01 PM INFO MainThread *** Passed ***
+09/18/2022 01:17:45 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:17:45 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:18:32 PM INFO MainThread *** Passed ***
+09/18/2022 01:21:14 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:21:14 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:21:26 PM INFO MainThread *** Passed ***
+09/18/2022 01:24:35 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:24:35 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:24:45 PM INFO MainThread *** Passed ***
+09/18/2022 01:36:39 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:36:39 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:37:46 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:37:46 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:37:56 PM INFO MainThread *** Passed ***
+09/18/2022 01:39:21 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/18/2022 01:39:21 PM INFO MainThread **************** Verifying Login test *****************
+09/18/2022 01:39:33 PM INFO MainThread *** Passed ***
+09/18/2022 01:39:39 PM INFO MainThread *** Passed ***
+09/18/2022 01:39:44 PM INFO MainThread *** Passed ***
+09/18/2022 01:39:49 PM INFO MainThread *** Passed ***
+09/18/2022 01:39:49 PM INFO MainThread *** Login DDT Test Passed***
+09/18/2022 10:53:04 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 10:53:10 PM INFO MainThread **************** Login Succesful*******************
+09/18/2022 10:53:10 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/18/2022 10:54:50 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 10:55:12 PM INFO MainThread **************** Login Succesful*******************
+09/18/2022 10:55:12 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/18/2022 10:56:05 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 10:56:12 PM INFO MainThread **************** Login Succesful*******************
+09/18/2022 10:56:12 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/18/2022 11:02:39 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 11:03:46 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 11:03:53 PM INFO MainThread **************** Login Succesful*******************
+09/18/2022 11:03:53 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/18/2022 11:15:24 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 11:16:17 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 11:16:41 PM INFO MainThread **************** Login Succesful*******************
+09/18/2022 11:16:41 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/18/2022 11:17:11 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/18/2022 11:18:10 PM INFO MainThread **************** Login Succesful*******************
+09/18/2022 11:18:10 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 11:16:17 AM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 11:16:23 AM INFO MainThread **************** Login Succesful*******************
+09/21/2022 11:16:23 AM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 11:21:54 AM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 11:22:01 AM INFO MainThread **************** Login Succesful*******************
+09/21/2022 11:22:01 AM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 11:28:50 AM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 11:28:57 AM INFO MainThread **************** Login Succesful*******************
+09/21/2022 11:28:57 AM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 11:52:00 AM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 11:52:05 AM INFO MainThread **************** Login Succesful*******************
+09/21/2022 11:52:05 AM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 11:52:07 AM INFO MainThread **************** Providing customer information *******************
+09/21/2022 11:52:16 AM INFO MainThread *************** Saving customer info *******************
+09/21/2022 11:52:16 AM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 11:52:16 AM INFO MainThread *************** Add customer test failed *******************
+09/21/2022 12:03:48 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 12:03:56 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 12:03:56 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 12:03:59 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 12:04:07 PM INFO MainThread *************** Saving customer info *******************
+09/21/2022 12:04:07 PM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 12:04:08 PM INFO MainThread *************** Add customer test failed *******************
+09/21/2022 12:07:02 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 12:07:09 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 12:07:09 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 12:07:17 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 12:07:25 PM INFO MainThread *************** Saving customer info *******************
+09/21/2022 12:07:25 PM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 12:07:26 PM INFO MainThread *************** Add customer test failed *******************
+09/21/2022 12:12:17 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 12:12:24 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 12:12:24 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 12:12:27 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 12:19:41 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 12:19:48 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 12:19:48 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 12:19:51 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 12:19:59 PM INFO MainThread *************** Saving customer info *******************
+09/21/2022 12:19:59 PM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 12:19:59 PM INFO MainThread *************** Add customer test failed *******************
+09/21/2022 12:20:03 PM INFO MainThread **************** Test001_Login *****************
+09/21/2022 12:20:03 PM INFO MainThread **************** Verifying Homepage Title *****************
+09/21/2022 12:20:08 PM INFO MainThread **************** Homepage Title test is Passed *****************
+09/21/2022 12:20:11 PM INFO MainThread **************** Verifying Login test *****************
+09/21/2022 12:20:18 PM INFO MainThread **************** Test002_DDT_Login *****************
+09/21/2022 12:20:18 PM INFO MainThread **************** Verifying Login test *****************
+09/21/2022 12:24:55 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 12:25:02 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 12:25:02 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 12:25:05 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 12:25:13 PM INFO MainThread *************** Saving customer info *******************
+09/21/2022 12:25:13 PM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 12:25:13 PM INFO MainThread *************** Add customer test failed *******************
+09/21/2022 12:34:27 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 12:34:34 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 12:34:34 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 12:34:37 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 12:34:49 PM INFO MainThread *************** Saving customer info *******************
+09/21/2022 12:34:49 PM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 12:34:49 PM INFO MainThread *************** Add customer test passed *******************
+09/21/2022 12:34:49 PM INFO MainThread *************** Ending add customer test *******************
+09/21/2022 02:08:12 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 02:08:19 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 02:08:19 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 02:08:21 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 02:10:44 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 02:10:51 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 02:10:51 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 02:10:53 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 02:13:03 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 02:13:10 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 02:13:10 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 02:13:12 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 02:14:18 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 02:14:24 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 02:14:24 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 02:14:25 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 02:16:38 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 02:16:45 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 02:16:45 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 02:16:46 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 02:24:40 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 02:24:45 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 02:24:45 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 02:24:46 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 08:06:39 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 08:06:47 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 08:06:47 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 08:06:49 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 08:06:54 PM INFO MainThread ***********Test_004_SearchcusByEmail Finished***********
+09/21/2022 08:08:18 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 08:08:23 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 08:08:23 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 08:10:04 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 08:10:17 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 08:10:17 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 08:10:20 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 08:11:22 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 08:11:27 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 08:11:27 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 08:11:48 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 08:11:57 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 08:11:57 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 08:11:59 PM INFO MainThread **************** Search customer By Email *******************
+09/21/2022 10:42:31 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/21/2022 10:42:39 PM INFO MainThread **************** Login Succesful*******************
+09/21/2022 10:42:39 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/21/2022 10:42:42 PM INFO MainThread **************** Providing customer information *******************
+09/21/2022 10:42:54 PM INFO MainThread *************** Saving customer info *******************
+09/21/2022 10:42:54 PM INFO MainThread *************** Add customer validation started *******************
+09/21/2022 10:42:54 PM INFO MainThread *************** Add customer test passed *******************
+09/21/2022 10:42:54 PM INFO MainThread *************** Ending add customer test *******************
+09/21/2022 10:42:55 PM INFO MainThread **************** Verifying Login test *****************
+09/21/2022 10:43:00 PM INFO MainThread **************** Login test Passed *****************
+09/22/2022 12:06:02 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/22/2022 12:06:08 PM INFO MainThread **************** Login Succesful*******************
+09/22/2022 12:06:08 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/22/2022 12:06:10 PM INFO MainThread **************** Providing customer information *******************
+09/22/2022 12:06:22 PM INFO MainThread *************** Saving customer info *******************
+09/22/2022 12:06:22 PM INFO MainThread *************** Add customer validation started *******************
+09/22/2022 12:06:22 PM INFO MainThread *************** Add customer test passed *******************
+09/22/2022 12:06:22 PM INFO MainThread *************** Ending add customer test *******************
+09/22/2022 12:06:24 PM INFO MainThread **************** Verifying Login test *****************
+09/22/2022 12:06:30 PM INFO MainThread **************** Login test Passed *****************
+09/22/2022 12:09:40 PM INFO MainThread **************** Verifying Login test *****************
+09/22/2022 12:09:48 PM INFO MainThread **************** Login test Passed *****************
+09/22/2022 12:13:23 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/22/2022 12:13:30 PM INFO MainThread **************** Login Succesful*******************
+09/22/2022 12:13:30 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/22/2022 12:13:33 PM INFO MainThread **************** Providing customer information *******************
+09/22/2022 12:13:46 PM INFO MainThread *************** Saving customer info *******************
+09/22/2022 12:13:46 PM INFO MainThread *************** Add customer validation started *******************
+09/22/2022 12:13:46 PM INFO MainThread *************** Add customer test passed *******************
+09/22/2022 12:13:46 PM INFO MainThread *************** Ending add customer test *******************
+09/22/2022 12:13:48 PM INFO MainThread **************** Verifying Login test *****************
+09/22/2022 12:13:55 PM INFO MainThread **************** Login test Passed *****************
+09/22/2022 12:14:02 PM INFO MainThread **************** Test003_Addcustomer *****************
+09/22/2022 12:14:07 PM INFO MainThread **************** Login Succesful*******************
+09/22/2022 12:14:07 PM INFO MainThread **************** Starting Add Customer Test *******************
+09/22/2022 12:14:10 PM INFO MainThread **************** Providing customer information *******************
+09/22/2022 12:14:16 PM INFO MainThread **************** Verifying Login test *****************
+09/22/2022 12:14:19 PM INFO MainThread **************** Login test Passed *****************
