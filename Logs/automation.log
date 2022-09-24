@@ -218,3 +218,9 @@
 09/22/2022 12:14:10 PM INFO MainThread **************** Providing customer information *******************
 09/22/2022 12:14:16 PM INFO MainThread **************** Verifying Login test *****************
 09/22/2022 12:14:19 PM INFO MainThread **************** Login test Passed *****************
+09/24/2022 11:00:55 AM INFO MainThread **************** Test003_Addcustomer *****************
+09/24/2022 11:01:34 AM INFO MainThread **************** Login Succesful*******************
+09/24/2022 11:01:34 AM INFO MainThread **************** Starting Add Customer Test *******************
+09/24/2022 11:01:52 AM INFO MainThread **************** Providing customer information *******************
+09/24/2022 11:02:00 AM INFO MainThread **************** Verifying Login test *****************
+09/24/2022 11:02:07 AM INFO MainThread **************** Login test Passed *****************
